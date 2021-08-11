@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SURYANSH9000
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Pytho
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Tech companies
 - 📫 How to reach me ...
 
