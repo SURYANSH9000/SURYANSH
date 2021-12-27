@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SURYANSH9000
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Data Structure and Algorithm
 - 💞️ I’m looking to collaborate with Tech companies as an SDE or web developer
 - 📫 How to reach me ...
 
